@@ -1,5 +1,5 @@
 # Codingbears
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gi)]()
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 <h1 align="center">Hi 👋, Welcome to Codingbears</h1>
 <h3 align="center">The Ultimate Platform for Aspiring Developers</h3>
  <p>
@@ -9,9 +9,8 @@
 </P>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbearsofficial&label=Profile%20views&color=0e75b6&style=flat" alt="codingbearsofficial" /> </p>
 
-
-
 <p align="left"> <a href="https://twitter.com/codingbears" target="blank"><img src="https://img.shields.io/twitter/follow/codingbears?logo=twitter&style=for-the-badge" alt="codingbears" /></a> </p>
+<img align="right" alt="Coding"  width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 
 - 💬 Welcome to  [Codingbears](https://codingbears.in/)
 
