@@ -26,10 +26,25 @@
 
 - 📄 Know about my experiences in [Codingbears](https://codingbears.in/)
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+---------------------------
+<h2 style="color: #44AEFB">📊 Statistics</h2>
 
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodingbearsOfficial&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodingbearsOfficial&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodingbearsOfficial&theme=github_dark)|
+|---|---|---|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodingbearsOfficial&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodingbearsOfficial&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=CodingbearsOfficial&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
+
+<p align="left"> <a href="https://github.com/CodingbearsOfficial/-Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodingbearsOfficial" alt="CodingbearsOfficial" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Frontend-Developer-ui" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mrityunjay-yadav-477aa224a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrityunjay-yadav-477aa224a/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/codingbears" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/codingbears" height="30" width="40" /></a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codingbears" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingbears" height="30" width="40" /></a>
