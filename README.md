@@ -1,6 +1,13 @@
+# CODING BEARS 
+
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gi)]()
 <h1 align="center">Hi 👋, Welcome to Codingbears</h1>
 <h3 align="center">The Ultimate Platform for Aspiring Developers</h3>
-
+ <p>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FRONTEND+Developer+%7C+HTML+CSS;JavaScript+%7C+BOOTSTRAP;Nodejs+%7C+MongoDB+%7C+MySQL)](https://git.io/typing-svg)
+ 
+</P>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbearsofficial&label=Profile%20views&color=0e75b6&style=flat" alt="codingbearsofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingbearsofficial" alt="codingbearsofficial" /></a> </p>
