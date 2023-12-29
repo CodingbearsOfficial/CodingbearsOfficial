@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Codingbears</h1>
+<h1 align="center">Hi 👋, Welcome to Codingbears</h1>
 <h3 align="center">The Ultimate Platform for Aspiring Developers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbearsofficial&label=Profile%20views&color=0e75b6&style=flat" alt="codingbearsofficial" /> </p>
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/codingbears" target="blank"><img src="https://img.shields.io/twitter/follow/codingbears?logo=twitter&style=for-the-badge" alt="codingbears" /></a> </p>
 
-- 💬 Welcome to Codingbears [https://codingbears.in/](https://codingbears.in/)
+- 💬 Welcome to  [Codingbears](https://codingbears.in/)
 
-- 🔭 We provide Internship and Training **Web development, App development, Python, Java, Machine learning, C, C++**
+- 🔭 We provide Internship and Training on **Web development, App development, Python, Java, Machine learning, C, C++**
 
-- Direct Registration Link [https://forms.gle/Hb17sn67CM1JSxhJ8](https://forms.gle/Hb17sn67CM1JSxhJ8)
+- Apply now : [Registartion Form Link](https://forms.gle/Hb17sn67CM1JSxhJ8)
 
-- 📝 I regularly write articles on : Medium [https://medium.com/@codingbearsofficial](https://medium.com/@codingbearsofficial)
+- 📝 I regularly write articles on : [Medium](https://medium.com/@codingbearsofficial)
 
 - 📫 How to reach me **codingbearsofficial@gmail.com**
 
-- 📄 Know about my experiences [https://codingbears.in/](https://codingbears.in/)
+- 📄 Know about my experiences in [Codingbears](https://codingbears.in/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
