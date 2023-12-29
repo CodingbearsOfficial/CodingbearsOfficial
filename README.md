@@ -42,7 +42,7 @@
 <a href="https://twitter.com/codingbears" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingbears" height="30" width="40" /></a>
 <a href="https://instagram.com/codingbears" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingbears" height="30" width="40" /></a>
 <a href="https://medium.com/@codingbearsofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codingbearsofficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/codingbears" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingbears" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC9NkN53RL1MHsMoVkhKWW4Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingbears" height="30" width="40" /></a>
 </p>
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
