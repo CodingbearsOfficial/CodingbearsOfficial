@@ -5,7 +5,7 @@
 <h3 align="center">The Ultimate Platform for Aspiring Developers</h3>
  <p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FRONTEND+Developer+%7C+HTML+CSS;JavaScript+%7C+BOOTSTRAP;Nodejs+%7C+MongoDB+%7C+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Codingbears+%7C+WEB+DEVELOPMENT;APP+DEVELOPMENT+%7C+JAVA;PYTHON+%7C+C+%7C+C++)](https://git.io/typing-svg)
  
 </P>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbearsofficial&label=Profile%20views&color=0e75b6&style=flat" alt="codingbearsofficial" /> </p>
