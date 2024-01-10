@@ -16,7 +16,7 @@
 
 - 🔭 We provide Internship and Training on **Web development, App development, Python, Java, Machine learning, C, C++**
 
-- Apply now : [Registartion Form Link](https://forms.gle/Hb17sn67CM1JSxhJ8)
+- Apply now : [Registartion Form Link](https://forms.gle/BMJaz5n66rZ7AwzNA)
 
 - 📝 I regularly write articles on : [Medium](https://medium.com/@codingbearsofficial)
 
